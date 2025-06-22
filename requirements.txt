@@ -3,5 +3,7 @@ streamlit
 requests
 pandas
 yfinance
+openai
 matplotlib
 beautifulsoup4
+plotly
