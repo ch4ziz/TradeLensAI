@@ -1,0 +1,7 @@
+openai==0.28
+streamlit
+requests
+pandas
+yfinance
+matplotlib
+beautifulsoup4
